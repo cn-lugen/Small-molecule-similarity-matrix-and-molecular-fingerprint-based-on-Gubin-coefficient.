@@ -1,0 +1,1 @@
+# Small-molecule-similarity-matrix-and-molecular-fingerprint-based-on-Gubin-coefficient.
